@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01通过ado.net连接数据库", "01通过ado.net连接数据库\01通过ado.net连接数据库.csproj", "{819BD7A7-21B9-41A8-8926-EBBEF5B179BB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinday02", "Sinday02\Sinday02.csproj", "{A8FBB5C6-9AE5-4329-9C6F-2B583EB4AC41}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sinday02_增_删_改_查", "Sinday02_增_删_改_查\Sinday02_增_删_改_查.csproj", "{E393886E-A4DC-4957-A817-8CB0B3038968}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{819BD7A7-21B9-41A8-8926-EBBEF5B179BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{819BD7A7-21B9-41A8-8926-EBBEF5B179BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{819BD7A7-21B9-41A8-8926-EBBEF5B179BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{819BD7A7-21B9-41A8-8926-EBBEF5B179BB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8FBB5C6-9AE5-4329-9C6F-2B583EB4AC41}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8FBB5C6-9AE5-4329-9C6F-2B583EB4AC41}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8FBB5C6-9AE5-4329-9C6F-2B583EB4AC41}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8FBB5C6-9AE5-4329-9C6F-2B583EB4AC41}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E393886E-A4DC-4957-A817-8CB0B3038968}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E393886E-A4DC-4957-A817-8CB0B3038968}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E393886E-A4DC-4957-A817-8CB0B3038968}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E393886E-A4DC-4957-A817-8CB0B3038968}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

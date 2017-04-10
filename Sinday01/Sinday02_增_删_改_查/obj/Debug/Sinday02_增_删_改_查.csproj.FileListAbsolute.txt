@@ -1,0 +1,9 @@
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\bin\Debug\Sinday02_增_删_改_查.exe.config
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\bin\Debug\Sinday02_增_删_改_查.exe
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\bin\Debug\Sinday02_增_删_改_查.pdb
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.csprojResolveAssemblyReference.cache
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.Form1.resources
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.Properties.Resources.resources
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.csproj.GenerateResource.Cache
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.exe
+D:\learning\dataSQL\Sinday01\Sinday02_增_删_改_查\obj\Debug\Sinday02_增_删_改_查.pdb

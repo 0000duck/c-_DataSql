@@ -1,0 +1,6 @@
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\bin\Debug\01通过ado.net连接数据库.exe.config
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\bin\Debug\01通过ado.net连接数据库.exe
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\bin\Debug\01通过ado.net连接数据库.pdb
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\obj\Debug\01通过ado.net连接数据库.csprojResolveAssemblyReference.cache
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\obj\Debug\01通过ado.net连接数据库.exe
+D:\learning\dataSQL\Sinday01\01通过ado.net连接数据库\obj\Debug\01通过ado.net连接数据库.pdb
