@@ -1,0 +1,46 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01SqlDataAdapter使用", "01SqlDataAdapter使用\01SqlDataAdapter使用.csproj", "{91336BB7-B4B8-48C9-8EDE-AB990F984A05}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02自己创建一个Dataset和DataTale", "02自己创建一个Dataset和DataTale\02自己创建一个Dataset和DataTale.csproj", "{51B5E2DB-6D5A-4DDF-84C3-48D17B7E6452}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "使用带参数SQL语句向数据库中插入空值.cs", "使用带参数SQL语句向数据库中插入空值.cs\使用带参数SQL语句向数据库中插入空值.cs.csproj", "{CFD0221C-7E1F-4713-86A2-39FAB9CA6ACD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03可空值类型", "03可空值类型\03可空值类型.csproj", "{62BC8887-05AD-4980-9856-1D57EF3CAE2F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "加载连接查询的结果到DataGridView.cs", "加载连接查询的结果到DataGridView.cx\加载连接查询的结果到DataGridView.cs.csproj", "{1426455F-2F32-4915-A0A0-93436B25DB2D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{91336BB7-B4B8-48C9-8EDE-AB990F984A05}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91336BB7-B4B8-48C9-8EDE-AB990F984A05}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91336BB7-B4B8-48C9-8EDE-AB990F984A05}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91336BB7-B4B8-48C9-8EDE-AB990F984A05}.Release|Any CPU.Build.0 = Release|Any CPU
+		{51B5E2DB-6D5A-4DDF-84C3-48D17B7E6452}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{51B5E2DB-6D5A-4DDF-84C3-48D17B7E6452}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{51B5E2DB-6D5A-4DDF-84C3-48D17B7E6452}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{51B5E2DB-6D5A-4DDF-84C3-48D17B7E6452}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CFD0221C-7E1F-4713-86A2-39FAB9CA6ACD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CFD0221C-7E1F-4713-86A2-39FAB9CA6ACD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CFD0221C-7E1F-4713-86A2-39FAB9CA6ACD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CFD0221C-7E1F-4713-86A2-39FAB9CA6ACD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{62BC8887-05AD-4980-9856-1D57EF3CAE2F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{62BC8887-05AD-4980-9856-1D57EF3CAE2F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{62BC8887-05AD-4980-9856-1D57EF3CAE2F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{62BC8887-05AD-4980-9856-1D57EF3CAE2F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1426455F-2F32-4915-A0A0-93436B25DB2D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1426455F-2F32-4915-A0A0-93436B25DB2D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1426455F-2F32-4915-A0A0-93436B25DB2D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1426455F-2F32-4915-A0A0-93436B25DB2D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
