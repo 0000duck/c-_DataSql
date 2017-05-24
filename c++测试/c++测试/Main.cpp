@@ -31,6 +31,7 @@ int main()
 	//_ConnectionPtr智能指针，通常用于打开、关闭一个库连接或用它的Execute方法来执行一个不返回结果的命令语句
 	_ConnectionPtr m_pConnection("ADODB.Connection");//定义数据库连接对象
 
+	//_bstr_t bstrSQL("select * from stu_info");//查询语句
 	_bstr_t bstrSQL("select * from stu_info");//查询语句
 
 	char* query_cmd = " delete from stu_info where sname = '本拉登'";
@@ -40,6 +41,7 @@ int main()
 		m_pConnection.CreateInstance("ADODB.Connection");//创建Connection对象
 
 		//设置连接字符串，必须是BSTR型或者_bstr_t类型,若数据库在网络上则Server为形如(192.168.1.5,3340) 
+		//_bstr_t strConnect = "Provider=SQLOLEDB;Server=DESKTOP-J4JFLTU\\SQLEXPRESS; Database=MyFirstDataBase; uid=sa; pwd=529147";
 		_bstr_t strConnect = "Provider=SQLOLEDB;Server=DESKTOP-J4JFLTU\\SQLEXPRESS; Database=MyFirstDataBase; uid=sa; pwd=529147";
 		m_pConnection->Open(strConnect, "", "", adModeUnknown);//NULL、adConnectUnspecified、//建立与服务器连接
 
